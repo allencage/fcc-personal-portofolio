@@ -1,0 +1,42 @@
+.margin-top{
+    margin-top:50px;
+}
+.margin-offset-jumbotron{
+    margin-top:75px;
+}
+.border-round{
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #e7e7e7;
+}
+.margin-negative-offset{
+    margin-top: -100px;
+}
+.img-jumbotron-avatar{
+    height: 75px;
+}
+.padding-top{
+    padding-top:10px;
+}
+.img-max-min-width{
+    max-width: 135px;
+    min-width: 110px;
+}
+#thumbnail-placeholder{
+    background-color: #fafafa;
+    height: 180px;
+}
+#main-jumbotron{
+    margin-bottom:0px;
+}
+.thumbnail{
+    border-color: #e7e7e7;
+}
+.list-group{
+    padding:0px 5px 0px 5px;
+}
+body{
+    padding-top:50px;
+    position:relative;
+}
